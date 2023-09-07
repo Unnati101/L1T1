@@ -1,0 +1,132 @@
+
+.topbar{
+    height:30px;
+    display: flex;
+    background-image: linear-gradient(to right, rgb(70, 70, 199),rgb(75, 71, 71));
+}
+.fa-facebook{
+  color: white; 
+  padding-bottom: 5px;
+  margin-left: 40px;
+  margin-right: 0px;
+  border-color:white;
+  border-width: 5px;
+  padding-top: 10px;
+  font-size: 10px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+
+
+}
+
+
+
+    .fa-twitter {
+        border-left: 2px solid white;
+  height: 50px;
+        color: white; 
+        padding-bottom: 20px;
+        margin-left: 1px;
+        border-color:white;
+        padding-top: 10px;
+        font-size: 10px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+      
+      }
+      .fa-instagram{
+        border-left: 2px solid white;
+  height: 50px;
+        color: white; 
+        padding-bottom: 20px;
+        margin-left: 1px;
+        border-color:white;
+        padding-top: 10px;
+        font-size: 10px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+
+      }
+.fa-youtube{
+    border-left: 2px solid white;
+    height: 50px;
+    color: white; 
+    padding-bottom: 20px;
+    margin-left: 1px;
+    border-color:white;
+    padding-top: 10px;
+    font-size: 10px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+
+}
+.fa-pinterest{
+    border-left: 2px solid white;
+    height: 50px;
+    color: white; 
+    padding-bottom: 20px;
+    margin-left: 1px;
+    border-color:white;
+    padding-top: 10px;
+    font-size: 10px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+
+
+}
+.fa-linkedin{
+    border-left: 2px solid white;
+    height: 50px;
+    color: white; 
+    padding-bottom: 20px;
+    margin-left: 1px;
+    border-color:white;
+    padding-top: 10px;
+    font-size: 10px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+
+}
+.fa-phone{
+    color: white;
+    padding-bottom: 20px;
+    margin-left: 60px;
+    padding-top: 10px;
+    font-size: 10px;
+    text-align: center;
+    text-decoration: none;
+    transform: rotate(90deg);
+    margin-left:auto;
+    margin-right:2px;
+
+}
+.num{
+    color: white;
+    margin-right:20px;
+    margin-left:2px;
+    font-size: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-envelope{
+    color: white;
+    font-size: 10px;
+    text-decoration: none;
+    margin-left:2px;
+    margin-right:8px;
+    margin-top: 6px;
+}
+.mail{
+    color: white;
+    font-size: 10px;
+    
+    text-decoration: none;
+    margin-left:0px;
+    margin-right:80px;
+}
